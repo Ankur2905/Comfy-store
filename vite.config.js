@@ -8,4 +8,7 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
+  daisyui:{
+    themes:["winter", "dracula"],
+  }
 });
